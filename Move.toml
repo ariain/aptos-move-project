@@ -1,0 +1,15 @@
+[package]
+name = "aptos-move-project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyAddr = "0619874ff2c3aca742268b5d7632850e6425d32a747b7f94c0a29c2973dc1a94"
+std = "0x1"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+local = "../aptos-core/aptos-move/framework/aptos-framework"
+
+[dev-dependencies]

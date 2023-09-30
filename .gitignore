@@ -1,0 +1,5 @@
+# compiled out directory
+build
+
+# local config
+.aptos
